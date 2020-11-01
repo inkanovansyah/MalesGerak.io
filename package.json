@@ -1,0 +1,22 @@
+{
+  "name": "malesgerak.io",
+  "version": "1.0.0",
+  "description": "iniapisaya",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inkanovansyah/MalesGerak.io.git"
+  },
+  "author": "inka novansyah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inkanovansyah/MalesGerak.io/issues"
+  },
+  "homepage": "https://github.com/inkanovansyah/MalesGerak.io#readme",
+  "dependencies": {
+    "bcrypt": "^5.0.0"
+  }
+}
